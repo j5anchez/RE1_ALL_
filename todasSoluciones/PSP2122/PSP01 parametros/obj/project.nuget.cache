@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Un4iAzLDV0+GI0uYWuMTfjJ+qjsTFZog4fXomcTUrMN/cadamWHX2fhvm7CswX+1YsZ3aQTIK5LKYnAXezeXOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\34603\\Desktop\\examen22\\psp\\todasSoluciones\\PSP2122\\PSP01 parametros\\parametros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

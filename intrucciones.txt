@@ -1,0 +1,19 @@
+-ejecutar programa paso a paso y apuntar en un papel
+
+git clone https://github.com/j5anchez/PSP04
+git clone https://github.com/j5anchez/PSP05
+
+git init
+git add . 
+git commit -m "initial commit"
+git remote add origin https://github.com/j5anchez/RE1_ALL.git
+git push -u origin master
+git push origin master  
+ 
+git config --global user.email "josebsanchez@birt.eus"
+git config --global user.name "j5anchez"
+
+
+
+
+borrar variables de entorno o credenciales desde windows si no logea github

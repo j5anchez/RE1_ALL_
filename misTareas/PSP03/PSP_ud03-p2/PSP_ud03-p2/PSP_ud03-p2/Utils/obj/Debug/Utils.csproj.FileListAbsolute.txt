@@ -1,0 +1,25 @@
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Utils.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Utils.pdb
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\obj\Debug\Utils.pdb
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Newtonsoft.Json.dll
+D:\Programing\Programs\C#\FileTransfer\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\bin\Debug\Utils.dll
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\bin\Debug\Utils.pdb
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\obj\Debug\Utils.dll
+C:\Users\34603\Source\Repos\Simple-File-Transfer-with-C-Sharp\Utils\obj\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\obj\Debug\Utils.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\obj\Debug\Utils.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\obj\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Utils\obj\Debug\Utils.pdb

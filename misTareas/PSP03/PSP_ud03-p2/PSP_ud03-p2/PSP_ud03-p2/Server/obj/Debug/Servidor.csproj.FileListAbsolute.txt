@@ -1,0 +1,48 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Server.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\obj\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Server\obj\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Server.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Servidor.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Server\obj\Debug\Server.pdb

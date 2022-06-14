@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP_Final_Azterketa2_Srv/1.0.0": {
+        "runtime": {
+          "PSP_Final_Azterketa2_Srv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP_Final_Azterketa2_Srv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

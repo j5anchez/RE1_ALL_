@@ -1,0 +1,16 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\clienteFTP.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\clienteFTP.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\obj\Debug\clienteFTP.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\obj\Debug\clienteFTP.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\obj\Debug\clienteFTP.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\obj\Debug\clienteFTP.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\proyectos\psp04\PSP04\clienteFTP\obj\Debug\clienteFTP.pdb

@@ -1,0 +1,14 @@
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.exe
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.deps.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.runtimeconfig.dev.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.dll
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\bin\Debug\netcoreapp3.1\pipe.pdb
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.AssemblyInfo.cs
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.dll
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.pdb
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01_Calculadora_Entrega\PSP01\pipe\obj\Debug\netcoreapp3.1\pipe.genruntimeconfig.cache

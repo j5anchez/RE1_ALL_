@@ -1,0 +1,60 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\Nueva carpeta\PSP_ud03-p2\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Client.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Client.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2b\PSP_ud03-p2\Client\obj\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Client.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\TaEv\paEnviar\PSP_ud03-p2\PSP_ud03-p2\Client\obj\Debug\Client.pdb

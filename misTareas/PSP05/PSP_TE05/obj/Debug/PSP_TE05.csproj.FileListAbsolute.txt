@@ -1,0 +1,10 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\bin\Debug\PSP_TE05.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\bin\Debug\PSP_TE05.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\bin\Debug\PSP_TE05.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\comparadorFicheros.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP_TE05\PSP_TE05\PSP_TE05\obj\Debug\PSP_TE05.pdb

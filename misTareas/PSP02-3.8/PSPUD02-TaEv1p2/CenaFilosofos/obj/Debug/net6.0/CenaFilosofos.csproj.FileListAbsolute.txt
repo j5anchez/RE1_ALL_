@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\bin\Debug\net6.0\CenaFilosofos.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\bin\Debug\net6.0\CenaFilosofos.deps.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\bin\Debug\net6.0\CenaFilosofos.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\bin\Debug\net6.0\CenaFilosofos.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\bin\Debug\net6.0\CenaFilosofos.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\refint\CenaFilosofos.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\CenaFilosofos.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD02\CenaFilosofos\obj\Debug\net6.0\ref\CenaFilosofos.dll

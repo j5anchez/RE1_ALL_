@@ -1,0 +1,13 @@
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\bin\Debug\netcoreapp2.1\parametros.deps.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\bin\Debug\netcoreapp2.1\parametros.runtimeconfig.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\bin\Debug\netcoreapp2.1\parametros.runtimeconfig.dev.json
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\bin\Debug\netcoreapp2.1\parametros.dll
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\bin\Debug\netcoreapp2.1\parametros.pdb
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.AssemblyInfo.cs
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.dll
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.pdb
+C:\Users\34603\Desktop\examen22\psp\todasSoluciones\PSP2122\PSP01 parametros\obj\Debug\netcoreapp2.1\parametros.genruntimeconfig.cache
